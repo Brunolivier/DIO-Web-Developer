@@ -1,2 +1,2 @@
 # DIO-Web-Developer
-introducao-criacao-de-websites-com-html5-e-css3
+Introdução a criação de sites utilizando HTML, CSS e JavaScript.
